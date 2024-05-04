@@ -1,0 +1,15 @@
+.circular-progress{
+    color:black;
+  }
+  .circular-progress .chakra-progress {
+    animation: pulse 1.5s infinite alternate;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }

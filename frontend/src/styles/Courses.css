@@ -1,0 +1,29 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    height:auto;
+    margin:10px;
+    background-color: #ffffff;
+  }
+  
+  .left-half,
+  .right-half {
+    width: 50%;
+    margin: 20px;
+  }
+  
+
+  .right-half{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 90px;
+  }
+
+  .dashboard-container-upper{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }

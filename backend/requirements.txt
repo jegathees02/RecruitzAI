@@ -1,0 +1,13 @@
+Flask==2.3.2
+# Flask==2.0.1
+Flask_Cors==4.0.0
+ipython==8.14.0
+librosa==0.10.0.post2
+moviepy==1.0.3
+numpy==1.24.3
+opencv_contrib_python==4.8.1.78
+opencv_python==4.8.0.76
+opencv_python_headless==4.8.0.76
+pyngrok==6.0.0
+SpeechRecognition==3.10.1
+tensorflow==2.13.0
